@@ -36,7 +36,6 @@ header {
   img {
     display: block;
     max-width: 100%;
-    border: white dotted 10px;
     border-radius: 10px;
     padding: 10px;
     grid-column: 1;
