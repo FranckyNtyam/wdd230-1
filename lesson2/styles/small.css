@@ -59,6 +59,9 @@ img {
   padding: 1em 0;
   width: 100%;
 }
+h4, a,p {
+  padding: 10px;
+}
 
 main {
       display: grid;
