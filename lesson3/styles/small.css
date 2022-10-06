@@ -85,6 +85,20 @@ main {
 .persona img {
     width: 100%;
 }
+.primary {
+    background: aliceblue ;
+    color: var(--accent-color);
+}
+.secondary {
+    background: #a6a6a6;
+    color: var(--accent-color);
+}
+.background {
+    background: #3e3f32;
+}
+th, td {
+    padding: 1em 2em;
+}
 
 footer {
     background-color: #3e3f32;
